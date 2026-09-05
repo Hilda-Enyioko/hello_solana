@@ -1,6 +1,6 @@
 # Hello Solana 🌱
 
-My first Solana program, built as part of the **Solana Fall School 2026**.
+My first Solana program, built as part of the **[Solana Fall School 2026](https://github.com/solana-foundation)**.
 
 This project is a hands-on introduction to building, testing, and interacting with a Solana program using **Rust, Anchor, JavaScript, and the Solana CLI**.
 
